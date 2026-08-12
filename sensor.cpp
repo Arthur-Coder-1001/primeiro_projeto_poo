@@ -2,6 +2,6 @@
 
 int main() {
     double temperatura = 27;
-    std::cout << "Sensor ativo: " << temperatura << " C\n";
+    std::cout << "Leitura de temperatura:\nSensor ativo: " << temperatura << " C\n";
     return 0;
 }
